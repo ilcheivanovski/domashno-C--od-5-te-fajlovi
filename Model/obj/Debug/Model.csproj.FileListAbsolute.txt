@@ -1,0 +1,5 @@
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Model\bin\Debug\Model.dll
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Model\bin\Debug\Model.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Model\obj\Debug\Model.dll
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Model\obj\Debug\Model.pdb

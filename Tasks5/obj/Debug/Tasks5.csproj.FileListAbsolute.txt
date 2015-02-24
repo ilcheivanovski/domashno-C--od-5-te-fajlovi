@@ -1,0 +1,11 @@
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\bin\Debug\Tasks5.exe.config
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\bin\Debug\Tasks5.exe
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\bin\Debug\Tasks5.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\obj\Debug\Tasks5.csprojResolveAssemblyReference.cache
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\obj\Debug\Tasks5.exe
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\obj\Debug\Tasks5.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\bin\Debug\Tasks5ClassLibrary2.dll
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks5\bin\Debug\Tasks5ClassLibrary2.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\domashno C# od 5-te fajlovi\Tasks5\bin\Debug\Tasks5.exe.config
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\domashno C# od 5-te fajlovi\Tasks5\obj\Debug\Tasks5.exe
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\domashno C# od 5-te fajlovi\Tasks5\obj\Debug\Tasks5.pdb

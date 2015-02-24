@@ -1,0 +1,5 @@
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks4Library2\bin\Debug\Tasks4Library2.dll
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks4Library2\bin\Debug\Tasks4Library2.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks4Library2\obj\Debug\Tasks4Library2.dll
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks4Library2\obj\Debug\Tasks4Library2.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Tasks4Library2\obj\Debug\Tasks4Library2.csprojResolveAssemblyReference.cache

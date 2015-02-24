@@ -1,0 +1,8 @@
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\bin\Debug\Task2Shapes.exe.config
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\bin\Debug\Task2Shapes.exe
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\bin\Debug\Task2Shapes.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\bin\Debug\Model.dll
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\bin\Debug\Model.pdb
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\obj\Debug\Task2Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\obj\Debug\Task2Shapes.exe
+C:\Users\Ilche\Desktop\ domashno C# Ilche  Ivanovski\OOP Task  - 3\ClassLibrary1\Task2Shapes\obj\Debug\Task2Shapes.pdb
